@@ -1,0 +1,27 @@
+# Dossiers générés
+data/
+embeddings/
+index/
+
+# Fichiers volumineux ou binaires
+*.npy
+*.pkl
+*.index
+*.pt
+*.pth
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnement virtuel
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Dataset téléchargé (kagglehub)
+.kaggle/
