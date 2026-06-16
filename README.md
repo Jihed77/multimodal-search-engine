@@ -1,15 +1,5 @@
 # 🔍 Multimodal AI Search Engine
 
-## Text → Image | Image → Image Semantic Retrieval System
-
-## 📸 Screenshots
-
-### Text Search Example
-![Text Search](images/text_search.png)
-
-### Image Search Example
-![Image Search](images/image_search.png)
-
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![AI](https://img.shields.io/badge/AI-Computer%20Vision-green.svg)
 ![CLIP](https://img.shields.io/badge/Model-OpenAI%20CLIP-purple.svg)
@@ -27,6 +17,18 @@ Users can:
 
 
 ---
+
+## Text → Image | Image → Image Semantic Retrieval System
+
+## 📸 Screenshots
+
+### Text Search Example
+![Text Search](images/text_search.png)
+
+### Image Search Example
+![Image Search](images/image_search.png)
+
+
 
 # 🚀 Project Overview
 
