@@ -2,16 +2,13 @@
 
 ## Text → Image | Image → Image Semantic Retrieval System
 
-📸 Screenshots
+## 📸 Screenshots
 
-Text Search Example
-https://images/text_search.png
+### Text Search Example
+![Text Search](images/text_search.png)
 
-Image Search Example
-https://images/image_search.png
-
-You can also include a GIF of the full workflow.
-See assets/demo.gif.
+### Image Search Example
+![Image Search](images/image_search.png)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![AI](https://img.shields.io/badge/AI-Computer%20Vision-green.svg)
@@ -28,7 +25,6 @@ Users can:
 * 🔤 Search images using natural language (**Text → Image**)
 * 🖼️ Upload an image and find similar images (**Image → Image**)
 
-![Demo](demo.gif)
 
 ---
 
